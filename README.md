@@ -1,5 +1,5 @@
-### Hi there 👋, Olá, meu nome é Jaqueline Camilo
-#### Futura Desenvolvedora Full Stack Java Jr.
+👋 Olá, meu nome é Jaqueline Camilo Dias
+Futura Desenvolvedora Full Stack Java Jr.
 Ex instrutora de programação infantil com foco em jogos, amo trabalho voluntário, cinema, seriado e sempre proposta a algo novo
 
 Skills:  JS / Logica de Programação 
