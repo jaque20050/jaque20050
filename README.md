@@ -1,14 +1,14 @@
-👋 Olá, meu nome é Jaqueline Camilo Dias
-Futura Desenvolvedora Full Stack Java Jr.
-Ex instrutora de programação infantil com foco em jogos, amo trabalho voluntário
+👋 Hello, My name is Jaqueline Camilo Dias
+Future Developer Full Stack Java Jr.
+Former children's programming instructor with a focus on games, I love volunteer work !!!
 
 Skills:  JS / Logica de Programação 
 
-- 🌱 I’m currently learning mais a cada dia 
-- 👯 I’m looking to collaborate on trabalho voluntário 
-- 🤔 I’m looking for help with em programação, para aprimorar 
+- 🌱 I’m currently learning more every day 
+- 👯 I’m looking to collaborate on volunteer work 
+- 🤔 I’m looking for help with in the schedule, to improve 
 - 😄 Pronouns: She/Ella/Ela 
-- ⚡ Fun fact: Amo Ficção Cientifica 
+- ⚡ Fun fact: i love science fiction 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaque20050)  
