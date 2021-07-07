@@ -15,6 +15,4 @@ Skills:  JS / Logica de Programação
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaque20050&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-
 
