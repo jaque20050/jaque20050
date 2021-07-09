@@ -10,9 +10,24 @@ Skills:  JS / Logica de Programação
 - 😄 Pronouns: She/Ella/Ela 
 - ⚡ Fun fact: i love science fiction 
 
+## Contact :grin:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaque20050)  
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jaque20050)](https://github.com/jaque20050)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaqueline-camilo-games/)](https://www.linkedin.com/in/jaqueline-camilo-games/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaque20050@hotmail.com)](mailto:jaque20050@hotmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaque20050&show_icons=true&heme=dracula></td>)  
+## My Skills :zap:
+
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white?logoWidth=40)
+
+## Github Stats :octocat:
+<center>
+<table>
+  <tr>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=erick-neves&show_icons=true&theme=dracula></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=erick-neves&show_icons=true&theme=dracula&layout=compact></td>
+  </tr>  
+</table>
+</center>
 
 
