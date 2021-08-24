@@ -2,7 +2,7 @@
 Future Developer Full Stack Java Jr.
 Former children's programming instructor with a focus on games, I love volunteer work !!!
 
-Skills:  JS / Logica de Programação 
+Skills:  JS / Logica de Programação / Java / MYSQL / Front-end / Back-end / Bootstrap / Angular
 
 - 🌱 I’m currently learning more every day 
 - 👯 I’m looking to collaborate on volunteer work 
