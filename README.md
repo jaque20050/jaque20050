@@ -10,7 +10,7 @@ Skills:  JS / Logica de Programação / Java / MYSQL / Front-end / Back-end / Bo
 - 😄 Pronouns: She/Ella/Ela 
 - ⚡ Fun fact: i love science fiction 
 
-![bemvindo-15](https://user-images.githubusercontent.com/55770645/133846028-bd9fc3ce-5fd9-4207-b67a-4c4693ccf7e6.gif) height="300px" width="300px"
+![bemvindo-15](https://user-images.githubusercontent.com/55770645/133846028-bd9fc3ce-5fd9-4207-b67a-4c4693ccf7e6.gif height="300px" width="300px")
 
 ## Contact :grin:
 
