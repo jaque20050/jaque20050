@@ -2,7 +2,7 @@
 Future Developer Full Stack Java Jr.
 Former children's programming instructor with a focus on games, I love volunteer work !!!
 
-Skills:  JS / Logica de Programação / Java / MYSQL / Front-end / Back-end / Bootstrap / Angular
+Skills:  JS / Logica de Programação / Java / MYSQL / Front-end / Back-end / Bootstrap / Angular / CSS
 
 - 🌱 I’m currently learning more every day 
 - 👯 I’m looking to collaborate on volunteer work 
@@ -10,7 +10,8 @@ Skills:  JS / Logica de Programação / Java / MYSQL / Front-end / Back-end / Bo
 - 😄 Pronouns: She/Ella/Ela 
 - ⚡ Fun fact: i love science fiction 
 
-![bemvindo-15](https://user-images.githubusercontent.com/55770645/133846028-bd9fc3ce-5fd9-4207-b67a-4c4693ccf7e6.gif")
+![bemvindo-15](https://user-images.githubusercontent.com/55770645/133846210-da9f96a1-94ce-4622-bab4-59e30da8e211.gif)
+
 
 ## Contact :grin:
 
